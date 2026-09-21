@@ -1,0 +1,4 @@
+.venv/
+install.log
+install_list.txt
+tokenization/the-verdict.txt
